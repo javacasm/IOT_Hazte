@@ -1,4 +1,29 @@
-# IOT_Hazte
+# Hazte un IOT
+
+## [Qué es IOT](https://es.wikipedia.org/wiki/Internet_de_las_cosas)
+
+![IOT](https://upload.wikimedia.org/wikipedia/commons/f/f2/Internet_de_las_Cosas.jpg)
+
+(De Drawed by Wilgengebroed on Flickr - Translated by Prades97, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32745149)
+
+### Internet Of Things
+#### But, Which things?
+
+#### EveryThing!!!
+
+¿Recuerdas el cambio de IP
+
+* Inteligencia:
+    * [Niveles](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas): identidad, ubicación, estado, contexto, criterio
+* Arquitectura
+  * [Protocolos](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas): Cable, Wifi, Zigbee, bluetooth, GSM (y todas sus Gs), ...
+  * M2M
+* ¿Caótico o complejo?
+
+## porque hacerse un lote
+## cómo hacerse un lote
+Cuánto cuesta
+Que necesito
 
 
 ## Ejemplos sencillos
