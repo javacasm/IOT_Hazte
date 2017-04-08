@@ -1,6 +1,6 @@
 # Hazte un IOT
 
-## Charla organizada por la OSL Ugr
+## Charla organizada por la OSL UGR
 
 ## José Antonio Vacas @javacasm
 
@@ -15,6 +15,20 @@
 
 (De Drawed by Wilgengebroed on Flickr - Translated by Prades97, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32745149)
 
+## Algunos ejemplos:
+
+* Pulsera para medir la actividad física
+  * Su batería dura unos ¡¡¡30 días!!!
+  * Almacena sus datos (en local) y cuando puede se sincroniza (guardando datos en la nube).
+  * Sólo proporciona información que luego vemos en otros dispositivos.
+* Sistema de riego inteligente
+  * Un arduino que mide la humedad y decide si activar o no una bomba de agua es una prueba de concepto
+  * Sistema de riego para una instalación de gran tamaño:
+    * Cientos/miles de sensores de humedad
+    * Multitud de puntos de riego (válvulas/bombas)
+    * Hacemos un datamining sobre los datos de humedad y se activan los puntos de riego
+
+
 ### Internet Of Things
 
 #### But, Which things?
@@ -26,16 +40,22 @@
 ### Qué le pedimos al IOT
 
 * Inteligencia:
-    * [Niveles](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas): identidad, ubicación, estado, contexto, criterio
+    * [Niveles](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas): identidad, ubicación, estado, contexto, criterio. Ejemplo: los cientos de sensores de humedad de una gran explotación. Un nivel más de Inteligencia sería incluir predicción (por ejemplo la atmosférica: si sabemos a que va llover, esperamos antes de regar)
 * Arquitectura
   * [Protocolos](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas): Cable, Wifi, Zigbee, bluetooth, GSM (y todas sus Gs), ...
-  * M2M
+  * M2M: Comunicación Machine To Machine
+    * Un drone recoge datos del nivel de suciedad de los paneles solares.
+    * Envía los datos  a la central
+    * Cuando el nivel es el adecuado se activa el robot de limpieza en determinada zona
+
 * ¿Caótico o complejo?
 
 ## ¿Por qué hacerse un IOT?
 
 
 ## Pero ¿Cuánto cuesta?
+
+Un sistema con Arduino+wifi puede costarnos unos 50€ (más los actuadores)
 
 ## ¿Cómo hacerse un IOT?
 
